@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelAndRecyclerViewPractice</string>
+    <string name="first_name">Sahithi</string>
+    <string name="player_name">PlayerName</string>
+    <string name="team_name">TeamName</string>
+    <string name="last_name">Morampudi</string>
+</resources>
